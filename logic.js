@@ -1,5 +1,3 @@
-
-
 const myForm = document.querySelector('#myForm');
 function addForm(eventObj) {
     eventObj.preventDefault();
